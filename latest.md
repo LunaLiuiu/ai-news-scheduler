@@ -1,12 +1,12 @@
 === GitHub Trending AI Projects ===
-Date: 2026-07-31 11:14
+Date: 2026-07-31 12:33
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐100190  
+1. **rasbt/LLMs-from-scratch** ⭐100194  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐45161  
+2. **rohitg00/ai-engineering-from-scratch** ⭐45167  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
@@ -44,38 +44,38 @@ Date: 2026-07-31 11:14
 
 
 --- Latest AI Releases ---
-1. **theagenticguy/ai-gateway** ⭐2  
+1. **Round-Tower/murphysig** ⭐0  
    Updated: 2026-07-31
-   AI Gateway: LLM inference gateway on AWS with Cognito M2M auth, ALB JWT validation, ECS Fargate, and CloudWatch observability
-   🔗 https://github.com/theagenticguy/ai-gateway
+   Natural-language provenance convention for signing human-AI collaborative code. Spec, CLI, and empirical benchmark.
+   🔗 https://github.com/Round-Tower/murphysig
 
-2. **yonghangyuan/tianshu** ⭐1  
+2. **Yuan-ManX/SparkLabs** ⭐12  
    Updated: 2026-07-31
-   天枢——中国本土自主 AI Agent 框架，这是一个借用deepseek开发的cli
-   🔗 https://github.com/yonghangyuan/tianshu
+   SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮
+   🔗 https://github.com/Yuan-ManX/SparkLabs
 
-3. **motojinc25/chatwalaau** ⭐2  
+3. **finsicle/bloomery** ⭐0  
    Updated: 2026-07-31
-   The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install
-   🔗 https://github.com/motojinc25/chatwalaau
+   Open-source local LLM trainer. Pretrain a language model from scratch on your own hardware — NVIDIA, AMD or Apple Silicon — with weighted replay mixtures and per-component forgetting detection.
+   🔗 https://github.com/finsicle/bloomery
 
-4. **BipinRimal314/ai-trace-auditor** ⭐0  
+4. **mindderivative/llm-wiki-qt** ⭐0  
    Updated: 2026-07-31
-   Audit LLM traces against regulatory compliance requirements (EU AI Act, NIST AI RMF). Open-source CLI.
-   🔗 https://github.com/BipinRimal314/ai-trace-auditor
+   This local LLM Wiki Knowledge Base (Python/PySide6/Qt Designer) uses llama.cpp to synthesize source data and chat history into five GEO-optimized modules: Ingestion, UI, Inference, Retrieval, and Sync. It features single-intent headers and granular data structures engineered for maximum AI agent retrieval accuracy.
+   🔗 https://github.com/mindderivative/llm-wiki-qt
 
-5. **bojieli/ai-agent-book** ⭐27627  
+5. **SEOSiri-Official/aeo-geo-mcp** ⭐0  
    Updated: 2026-07-31
-   《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-   🔗 https://github.com/bojieli/ai-agent-book
+   A sovereign, local-first MCP server for AI Engine Optimization (AEO), Generative Engine Optimization (GEO), llm.txt auditing, and content stickiness analytics.
+   🔗 https://github.com/SEOSiri-Official/aeo-geo-mcp
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐87734  
+1. **vllm-project/vllm** ⭐87740  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14642  
+2. **BlinkDL/RWKV-LM** ⭐14643  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
