@@ -1,32 +1,32 @@
 === GitHub Trending AI Projects ===
-Date: 2026-08-03 12:41
+Date: 2026-08-04 12:24
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐100407  
+1. **rasbt/LLMs-from-scratch** ⭐100490  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐45557  
+2. **rohitg00/ai-engineering-from-scratch** ⭐45792  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐21798  
+3. **huggingface/datasets** ⭐21802  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11728  
+4. **tensorzero/tensorzero** ⭐11727  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐5896  
+5. **ashishps1/learn-ai-engineering** ⭐5899  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **zenml-io/zenml** ⭐5528  
+6. **zenml-io/zenml** ⭐5531  
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐4863  
+7. **rasbt/reasoning-from-scratch** ⭐4869  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
@@ -44,50 +44,50 @@ Date: 2026-08-03 12:41
 
 
 --- Latest AI Releases ---
-1. **dfrostar/neuralmind** ⭐25  
-   Updated: 2026-08-03
-   Persistent memory for AI coding agents. Your agent learns your codebase the way a senior engineer would — what files go together, what you usually edit next. Works with Claude Code, Cursor, Cline, Continue. 100% local. (Side effect: 40-70× cheaper code questions.)
-   🔗 https://github.com/dfrostar/neuralmind
+1. **bibekanandan892/vyaparpay-voice-agent** ⭐0  
+   Updated: 2026-08-04
+   Screen-aware AI voice support agent (VyaparPay) — a portfolio project: an Android app whose support button opens a raw-WebRTC voice call to an LLM agent that sees your live screen. Architecture docs + Python backend.
+   🔗 https://github.com/bibekanandan892/vyaparpay-voice-agent
 
-2. **kleon1024/agi-playground** ⭐0  
-   Updated: 2026-08-03
-   Full-stack AI curriculum: data, pretraining, post-training, RL, inference, evals, agent harnesses — from readable toys to production tools, verified by real runs.
-   🔗 https://github.com/kleon1024/agi-playground
+2. **Jawafdehi/jawafdehi-mcp** ⭐0  
+   Updated: 2026-08-04
+   Model Context Protocol (MCP) server providing tools for integrating LLM workflows with Jawafdehi products, including Jawafdehi.org, Nepal Entity Service (NES), Nepal Government Modernization (NGM), and the likhit Markdown conversion tool.
+   🔗 https://github.com/Jawafdehi/jawafdehi-mcp
 
-3. **raullenchai/Rapid-MLX** ⭐3391  
-   Updated: 2026-08-03
-   The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
-   🔗 https://github.com/raullenchai/Rapid-MLX
+3. **antonyrag/ragleap-core** ⭐2  
+   Updated: 2026-08-04
+   The open-source core of RagLeap — a self-hosted RAG chat engine (document ingestion, retrieval, citations) powering RagLeap's full AI business manager: Voice AI, WhatsApp/Telegram/Discord bots, database & CRM integrations, workflow automation, and a private executive assistant. Foundation layer — hosted platform at ragleap.com
+   🔗 https://github.com/antonyrag/ragleap-core
 
-4. **iduyuhe/zhiyan-evolviq** ⭐4  
-   Updated: 2026-08-03
-   智衍 EvolvIQ —— 面向制造业的工业 AI 原生智能体平台。基座 + 11 个工业 Agent（供应链/良率/质量追溯/DFM/OEE/设备维护等），支持 MCP 能力联邦、OPC-UA/Modbus/MQTT 工业协议网关与 Neo4j 跨 Agent 知识图谱。Apache-2.0 开源。
-   🔗 https://github.com/iduyuhe/zhiyan-evolviq
+4. **carlosmorales-dev-mx/Trenchcoat** ⭐0  
+   Updated: 2026-08-04
+   Self-hosted, local-first AI chat app for text and image generation. Routes conversations between a local LLM (Ollama) and local Stable Diffusion (Forge) automatically — no cloud, no telemetry, no accounts.
+   🔗 https://github.com/carlosmorales-dev-mx/Trenchcoat
 
-5. **sv-pro/ai-detector-bench** ⭐0  
-   Updated: 2026-08-03
-   A referee for AI-text detectors: measures them (including its own) at the operating points that decide whether someone gets accused, and publishes where they fail.
-   🔗 https://github.com/sv-pro/ai-detector-bench
+5. **Ishannaik/agent-sweep** ⭐55  
+   Updated: 2026-08-04
+   Find and redact secrets in AI coding agent histories (Claude Code, and more).
+   🔗 https://github.com/Ishannaik/agent-sweep
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐88000  
+1. **vllm-project/vllm** ⭐88129  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14645  
+2. **BlinkDL/RWKV-LM** ⭐14647  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10469  
+3. **bigscience-workshop/petals** ⭐10475  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8336  
+4. **poloclub/transformer-explainer** ⭐8343  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6910  
+5. **InternLM/MindSearch** ⭐6911  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
