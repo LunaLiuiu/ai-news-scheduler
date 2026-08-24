@@ -1,16 +1,16 @@
 === GitHub Trending AI Projects ===
-Date: 2026-08-23 10:35
+Date: 2026-08-24 10:35
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐103312  
+1. **rasbt/LLMs-from-scratch** ⭐103564  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐47657  
+2. **rohitg00/ai-engineering-from-scratch** ⭐47915  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐21848  
+3. **huggingface/datasets** ⭐21855  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
@@ -18,7 +18,7 @@ Date: 2026-08-23 10:35
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐5950  
+5. **ashishps1/learn-ai-engineering** ⭐5954  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
@@ -26,7 +26,7 @@ Date: 2026-08-23 10:35
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5030  
+7. **rasbt/reasoning-from-scratch** ⭐5041  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
@@ -38,40 +38,40 @@ Date: 2026-08-23 10:35
    RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry 
    🔗 https://github.com/truefoundry/cognita
 
-10. **SharpAI/DeepCamera** ⭐3007  
+10. **SharpAI/DeepCamera** ⭐3009  
    Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
    🔗 https://github.com/SharpAI/DeepCamera
 
 
 --- Latest AI Releases ---
-1. **ShekharBhardwaj/AgenticLedger** ⭐5  
-   Updated: 2026-08-23
-   Local-first flight recorder for AI agents: every LLM call, tool call, cost, and loop captured by a transparent proxy. Zero code changes.
-   🔗 https://github.com/ShekharBhardwaj/AgenticLedger
+1. **offpeak-ai/offpeak** ⭐0  
+   Updated: 2026-08-24
+   Deadline-priced inference: give AI jobs a deadline and run them on the cheapest venue — provider batch tiers (−50%) today. Same model, same tokens, a different hour.
+   🔗 https://github.com/offpeak-ai/offpeak
 
-2. **mrwersa/agentmandate** ⭐2  
-   Updated: 2026-08-23
-   What is your AI agent actually allowed to do? Finds limits an agent can slip past by combining individually permitted actions, and flags releases that widen its reach.
-   🔗 https://github.com/mrwersa/agentmandate
+2. **jiho05023-design/yonsei-labor-law-ai** ⭐0  
+   Updated: 2026-08-24
+   ???? ???? AI ?? & ?? ??? (LLM + RAG + 10-Cycle ??? ?? ???)
+   🔗 https://github.com/jiho05023-design/yonsei-labor-law-ai
 
-3. **dryvist/ansible-proxmox-ai** ⭐1  
-   Updated: 2026-08-23
-   Ansible roles for the homelab AI/LLM serving stack (Hermes agent, LLM router, Ollama, Qdrant, RAG, model serving).
-   🔗 https://github.com/dryvist/ansible-proxmox-ai
+3. **rtcode337/chiezo** ⭐0  
+   Updated: 2026-08-24
+   AI のための知識ベース。Wikipedia・OpenStreetMap・GeoNames の公式ダンプを SQLite (FTS5) に索引し、MCP と REST で AI に引かせる。AI が書き足せる notes と、Chiezo を道具として引くローカル LLM(agent モード・web 検索)も同梱。
+   🔗 https://github.com/rtcode337/chiezo
 
-4. **DanceNitra/agora** ⭐3  
-   Updated: 2026-08-23
-   Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning — a public replication ledger (the Crucible), the RAMR benchmark, and mnemo, a zero-dependency memory core. Every claim ships with runnable code that could prove it wrong. 
-   🔗 https://github.com/DanceNitra/agora
+4. **Wonderforge-Lab/Agent-Pantograph** ⭐0  
+   Updated: 2026-08-24
+   Get more out of lower-cost settings/smaller LLMs by utilising your terminal for local agent-like workflows - via this lightweight safety-focused AI harness that uses bounded scripts, human approval gates, compact reports, & deterministic routines - all in one stack. For tokenmaxxing, and for reducing shell-risk, drift, & hallucinated local actions
+   🔗 https://github.com/Wonderforge-Lab/Agent-Pantograph
 
-5. **PromptMatrix/Promptmatrix** ⭐0  
-   Updated: 2026-08-23
-   Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.
-   🔗 https://github.com/PromptMatrix/Promptmatrix
+5. **majid-alsakani/omni-agent-ai** ⭐3  
+   Updated: 2026-08-24
+   Omni-Agent: The Autonomous Business Intelligence Hub. AI-powered automation, real-time analytics, and enterprise-grade security.
+   🔗 https://github.com/majid-alsakani/omni-agent-ai
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐89721  
+1. **vllm-project/vllm** ⭐89816  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
@@ -83,7 +83,7 @@ Date: 2026-08-23 10:35
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8436  
+4. **poloclub/transformer-explainer** ⭐8440  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
