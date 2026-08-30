@@ -1,24 +1,24 @@
 === GitHub Trending AI Projects ===
-Date: 2026-08-29 15:49
+Date: 2026-08-30 14:34
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐103971  
+1. **rasbt/LLMs-from-scratch** ⭐104026  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐50726  
+2. **rohitg00/ai-engineering-from-scratch** ⭐51042  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐21875  
+3. **huggingface/datasets** ⭐21878  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11717  
+4. **tensorzero/tensorzero** ⭐11718  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐5968  
+5. **ashishps1/learn-ai-engineering** ⭐5970  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
@@ -26,68 +26,68 @@ Date: 2026-08-29 15:49
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5085  
+7. **rasbt/reasoning-from-scratch** ⭐5090  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-8. **changyeyu/LLM-RL-Visualized** ⭐4826  
+8. **changyeyu/LLM-RL-Visualized** ⭐4827  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
-9. **truefoundry/cognita** ⭐4419  
+9. **truefoundry/cognita** ⭐4420  
    RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry 
    🔗 https://github.com/truefoundry/cognita
 
-10. **hemansnation/AI-Engineer-Headquarters** ⭐3675  
+10. **hemansnation/AI-Engineer-Headquarters** ⭐3674  
    A collection of scientific methods, processes, algorithms, and systems to build stories & models.
    🔗 https://github.com/hemansnation/AI-Engineer-Headquarters
 
 
 --- Latest AI Releases ---
-1. **lepablito/ai-blog-copilot** ⭐0  
-   Updated: 2026-08-29
-   Trend radar agent + writing studio: a from-scratch ReAct loop that finds what to write about, and a Streamlit studio that helps write it.
-   🔗 https://github.com/lepablito/ai-blog-copilot
+1. **pulin-rai/student-complaint-ai** ⭐0  
+   Updated: 2026-05-01
+   None
+   🔗 https://github.com/pulin-rai/student-complaint-ai
 
-2. **ynnyh/jarvis-write** ⭐5  
-   Updated: 2026-08-29
-   A controllable, revisable, consistency-first AI system for long-form novel writing — temporal story bible, foreshadowing scheduler, cascading outline engine, and tag-based style control wrapped around any LLM.
-   🔗 https://github.com/ynnyh/jarvis-write
+2. **Skyvern-AI/skyvern** ⭐22879  
+   Updated: 2026-08-30
+   Automate browser based workflows with AI
+   🔗 https://github.com/Skyvern-AI/skyvern
 
-3. **sagar-kc7/aws-multiagent-support** ⭐0  
-   Updated: 2026-08-29
-   Multi-agent AI customer support system on AWS — a supervisor agent routes queries to billing, technical, and refunds specialists, each grounded via RAG on its own Bedrock Knowledge Base. Built with Bedrock AgentCore, Strands Agents SDK, Pinecone, and CDK.
-   🔗 https://github.com/sagar-kc7/aws-multiagent-support
+3. **KinSushi/claude-local-nexus** ⭐0  
+   Updated: 2026-08-30
+   Plateforme locale d'orchestration IA – Dockerisée, souveraine, reproductible. Claude Code, Ollama, LiteLLM, routeurs adaptatifs, cache Redis, PostgreSQL, Langfuse. Modèles locaux & cloud unifiés.
+   🔗 https://github.com/KinSushi/claude-local-nexus
 
-4. **guaardvark/guaardvark** ⭐186  
-   Updated: 2026-08-29
-   The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation, 4K/8K upscaling, RAG, voice interface, 60+ tool execution engine — all running locally on your hardware.
-   🔗 https://github.com/guaardvark/guaardvark
+4. **0xwi11iam/Suijin** ⭐5  
+   Updated: 2026-08-30
+   Suijin is an open-source AI agentic red-teaming framework powered by LangGraph and a Re-Act Architecture.
+   🔗 https://github.com/0xwi11iam/Suijin
 
-5. **SuperdeMan/cockpit-agent** ⭐14  
-   Updated: 2026-08-29
-   面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。
-   🔗 https://github.com/SuperdeMan/cockpit-agent
+5. **pythonshiyi/WhaleTalk** ⭐2  
+   Updated: 2026-08-30
+   鲸语 WhaleTalk · 专为 DeepSeek V4 深度优化的 Windows 桌面 AI 助手（独立产品品牌，与 DeepSeek 官方无关联）
+   🔗 https://github.com/pythonshiyi/WhaleTalk
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐90369  
+1. **vllm-project/vllm** ⭐90446  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14686  
+2. **BlinkDL/RWKV-LM** ⭐14687  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10527  
+3. **bigscience-workshop/petals** ⭐10528  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8471  
+4. **poloclub/transformer-explainer** ⭐8473  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6919  
+5. **InternLM/MindSearch** ⭐6920  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
