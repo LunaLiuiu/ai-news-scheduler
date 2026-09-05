@@ -1,20 +1,20 @@
 === GitHub Trending AI Projects ===
-Date: 2026-09-04 13:47
+Date: 2026-09-05 13:39
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐104310  
+1. **rasbt/LLMs-from-scratch** ⭐104350  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐52326  
+2. **rohitg00/ai-engineering-from-scratch** ⭐52422  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐21892  
+3. **huggingface/datasets** ⭐21898  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11717  
+4. **tensorzero/tensorzero** ⭐11718  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
@@ -26,11 +26,11 @@ Date: 2026-09-04 13:47
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5146  
+7. **rasbt/reasoning-from-scratch** ⭐5147  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-8. **changyeyu/LLM-RL-Visualized** ⭐4844  
+8. **changyeyu/LLM-RL-Visualized** ⭐4845  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -44,50 +44,50 @@ Date: 2026-09-04 13:47
 
 
 --- Latest AI Releases ---
-1. **dev-core-busy/jarvis** ⭐25  
-   Updated: 2026-09-04
-   Self-hosted autonomous AI agent for Linux — multi-LLM, real desktop control (VNC), WhatsApp, RAG knowledge base, sandboxed security layer, OpenClaw skills
-   🔗 https://github.com/dev-core-busy/jarvis
+1. **Arienax/GX-Works2_Openness_MCP** ⭐0  
+   Updated: 2026-09-05
+   AI-powered MCP server for Mitsubishi GX Works2, enabling natural-language PLC programming, ladder/st logic generation, project editing, compilation, diagnostics, and multi-LLM integration.
+   🔗 https://github.com/Arienax/GX-Works2_Openness_MCP
 
-2. **handochan/aelix-ai** ⭐9  
-   Updated: 2026-09-04
-   An agent runtime and extension platform in pure Python — self-hosted, auditable, and extensible on the model budgets you already pay for.
-   🔗 https://github.com/handochan/aelix-ai
+2. **aiworkskills/wechat-article-skills** ⭐557  
+   Updated: 2026-09-05
+   微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
+   🔗 https://github.com/aiworkskills/wechat-article-skills
 
-3. **alejandrojlamas/verbaloom** ⭐2  
-   Updated: 2026-08-21
-   Local-first applied-AI lab for long-book translation, editorial memory, fidelity auditing, resumable quality gates, and human review.
-   🔗 https://github.com/alejandrojlamas/verbaloom
+3. **braboj/solid-ai-templates** ⭐4  
+   Updated: 2026-09-05
+   Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates
+   🔗 https://github.com/braboj/solid-ai-templates
 
-4. **dmytrome/groundhog** ⭐0  
-   Updated: 2026-09-04
-   Safe, self-hosted web grounding for AI agents and crawlers — stealth Chrome over MCP
-   🔗 https://github.com/dmytrome/groundhog
+4. **SRHSoulja/backrooms** ⭐0  
+   Updated: 2026-09-05
+   A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.
+   🔗 https://github.com/SRHSoulja/backrooms
 
-5. **sponge-b0b/Polaris** ⭐4  
-   Updated: 2026-09-04
-   A runtime-native AI intelligence platform for portfolio analysis
-   🔗 https://github.com/sponge-b0b/Polaris
+5. **tayabawan19/AI-Engineering-Journey** ⭐1  
+   Updated: 2026-09-05
+   Daily Python → AI Engineering build log. Documenting my 6-month journey from Python fundamentals to building real AI-powered apps with LLMs, RAG, and MLOps. 🚀
+   🔗 https://github.com/tayabawan19/AI-Engineering-Journey
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐90937  
+1. **vllm-project/vllm** ⭐90995  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14695  
+2. **BlinkDL/RWKV-LM** ⭐14696  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10535  
+3. **bigscience-workshop/petals** ⭐10536  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8500  
+4. **poloclub/transformer-explainer** ⭐8507  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6917  
+5. **InternLM/MindSearch** ⭐6918  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
