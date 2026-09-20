@@ -1,16 +1,16 @@
 === GitHub Trending AI Projects ===
-Date: 2026-09-19 13:46
+Date: 2026-09-20 14:07
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐105212  
+1. **rasbt/LLMs-from-scratch** ⭐105260  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐54984  
+2. **rohitg00/ai-engineering-from-scratch** ⭐55045  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐21991  
+3. **huggingface/datasets** ⭐21998  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
@@ -18,19 +18,19 @@ Date: 2026-09-19 13:46
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐6052  
+5. **ashishps1/learn-ai-engineering** ⭐6055  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **zenml-io/zenml** ⭐5583  
+6. **zenml-io/zenml** ⭐5584  
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5250  
+7. **rasbt/reasoning-from-scratch** ⭐5253  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-8. **changyeyu/LLM-RL-Visualized** ⭐4895  
+8. **changyeyu/LLM-RL-Visualized** ⭐4894  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -38,40 +38,40 @@ Date: 2026-09-19 13:46
    RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry 
    🔗 https://github.com/truefoundry/cognita
 
-10. **hemansnation/AI-Engineer-Headquarters** ⭐3687  
+10. **hemansnation/AI-Engineer-Headquarters** ⭐3688  
    A collection of scientific methods, processes, algorithms, and systems to build stories & models.
    🔗 https://github.com/hemansnation/AI-Engineer-Headquarters
 
 
 --- Latest AI Releases ---
-1. **Marjathirtyfour391/polymarket-trading-bot-ai-model-btc-5m-15m-1h-stacked-ensemble-xgboost-lightgbm** ⭐0  
-   Updated: 2026-09-19
-   Trade BTC 5m, 15m, and 1h Up/Down markets on Polymarket using a stacked XGBoost and LightGBM ensemble for edge-based arbitrage.
-   🔗 https://github.com/Marjathirtyfour391/polymarket-trading-bot-ai-model-btc-5m-15m-1h-stacked-ensemble-xgboost-lightgbm
+1. **wanghongN/SkillsRepo** ⭐0  
+   Updated: 2026-09-20
+   实用 AI Skills 合集｜Prompt Engineering · AI Agents · LLM Workflows
+   🔗 https://github.com/wanghongN/SkillsRepo
 
-2. **jersonboydmilan/Capgate** ⭐0  
-   Updated: 2026-09-19
-   Capgate — runtime authority boundary for autonomous AI agents: the agent proposes, the harness authorizes, the executor acts. Deny-by-default policy, non-transitive delegation, tamper-evident audit, MCP gateway, containerised isolation.
-   🔗 https://github.com/jersonboydmilan/Capgate
+2. **raghuece455/AgentMesh** ⭐2  
+   Updated: 2026-09-20
+   Open-source observability, traceability, replay, and cost intelligence platform for multi-agent AI systems
+   🔗 https://github.com/raghuece455/AgentMesh
 
-3. **Ujjawal-Bisht/research-paper-assistant** ⭐0  
-   Updated: 2026-09-19
-   AI-powered research paper assistant that uses RAG, FAISS, and Groq LLMs to summarize papers and answer questions from uploaded documents.
-   🔗 https://github.com/Ujjawal-Bisht/research-paper-assistant
+3. **Nyanna/XY.AI.Workbench** ⭐1  
+   Updated: 2026-09-20
+   XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, RAG, feedback loops, and semantic validation for reliable AI-assisted document processing.
+   🔗 https://github.com/Nyanna/XY.AI.Workbench
 
-4. **ryan-wolbeck/agent-fuse** ⭐0  
-   Updated: 2026-09-19
-   Local circuit breaker monitoring for runaway AI coding agents.
-   🔗 https://github.com/ryan-wolbeck/agent-fuse
+4. **hud-evals/hud-python** ⭐302  
+   Updated: 2026-09-20
+   RL environments + evals for AI agents. Define once, train anything.
+   🔗 https://github.com/hud-evals/hud-python
 
-5. **needyamin/YaMi** ⭐0  
-   Updated: 2026-09-19
-   YaMi is a Fontaine AI modular, config-driven LLM platform built to run on a single 16 GB machine and scale without rewriting the codebase. It includes a modern Transformer, data pipeline, tokenizer, training engine, checkpointing, evaluation, KV-cached inference, and CLI tooling.
-   🔗 https://github.com/needyamin/YaMi
+5. **futuroptimist/token.place** ⭐7  
+   Updated: 2026-09-20
+   Peer-to-peer generative-AI platform that matches LLM users with volunteers donating spare compute.
+   🔗 https://github.com/futuroptimist/token.place
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐92139  
+1. **vllm-project/vllm** ⭐92205  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
@@ -83,11 +83,11 @@ Date: 2026-09-19 13:46
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8596  
+4. **poloclub/transformer-explainer** ⭐8598  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6930  
+5. **InternLM/MindSearch** ⭐6929  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
