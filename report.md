@@ -1,20 +1,20 @@
 === GitHub Trending AI Projects ===
-Date: 2026-09-24 14:06
+Date: 2026-09-25 14:07
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐105482  
+1. **rasbt/LLMs-from-scratch** ⭐105529  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐55809  
+2. **rohitg00/ai-engineering-from-scratch** ⭐56804  
    Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐22006  
+3. **huggingface/datasets** ⭐22009  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11719  
+4. **tensorzero/tensorzero** ⭐11716  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
@@ -22,11 +22,11 @@ Date: 2026-09-24 14:06
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **zenml-io/zenml** ⭐5590  
+6. **zenml-io/zenml** ⭐5591  
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5280  
+7. **rasbt/reasoning-from-scratch** ⭐5282  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
@@ -34,56 +34,56 @@ Date: 2026-09-24 14:06
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
-9. **truefoundry/cognita** ⭐4419  
+9. **truefoundry/cognita** ⭐4418  
    RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry 
    🔗 https://github.com/truefoundry/cognita
 
-10. **hemansnation/AI-Engineer-Headquarters** ⭐3686  
+10. **hemansnation/AI-Engineer-Headquarters** ⭐3685  
    A collection of scientific methods, processes, algorithms, and systems to build stories & models.
    🔗 https://github.com/hemansnation/AI-Engineer-Headquarters
 
 
 --- Latest AI Releases ---
-1. **more-than-just-klyrion/nanoborealis** ⭐0  
-   Updated: 2026-09-24
-   The agentic Linux desktop: an AI agent built in, free models, your own hardware. Built on Aurora (KDE, Fedora Atomic).
-   🔗 https://github.com/more-than-just-klyrion/nanoborealis
+1. **bonigarcia/context-engineering** ⭐156  
+   Updated: 2026-09-25
+   Context Engineering: Build Consistent, Accurate, Predictable AI Systems
+   🔗 https://github.com/bonigarcia/context-engineering
 
-2. **lepablito/ai-blog-copilot** ⭐0  
-   Updated: 2026-09-24
-   Trend radar agent + writing studio: a from-scratch ReAct loop that finds what to write about, and a Streamlit studio that helps write it.
-   🔗 https://github.com/lepablito/ai-blog-copilot
+2. **Cloto-dev/CPersona** ⭐7  
+   Updated: 2026-09-25
+   CPersona — persistent memory for AI agents over MCP. One SQLite file you own, hybrid vector + full-text + keyword search, no LLM in the loop, and honest reporting when recall degrades. MIT licensed.
+   🔗 https://github.com/Cloto-dev/CPersona
 
-3. **aliyevaladddin/AladdinAI** ⭐14  
-   Updated: 2026-09-24
-   AladdinAI: open-source BYOI (Bring Your Own Infrastructure) AI Agent platform. Connect your own VMs, NVIDIA NIM, OpenAI, Anthropic, Ollama — build and manage AI agents visually.
-   🔗 https://github.com/aliyevaladddin/AladdinAI
+3. **bytedance/deer-flow** ⭐82953  
+   Updated: 2026-09-25
+   An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+   🔗 https://github.com/bytedance/deer-flow
 
-4. **quodeq/quodeq** ⭐23  
-   Updated: 2026-09-24
-   AI-powered code quality and security scanner. Open source, MIT, runs locally. <🧭>
-   🔗 https://github.com/quodeq/quodeq
+4. **hud-evals/hud-python** ⭐303  
+   Updated: 2026-09-25
+   RL environments + evals for AI agents. Define once, train anything.
+   🔗 https://github.com/hud-evals/hud-python
 
-5. **knostic/OpenAnt** ⭐752  
-   Updated: 2026-09-24
-   OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.
-   🔗 https://github.com/knostic/OpenAnt
+5. **SRHSoulja/backrooms** ⭐1  
+   Updated: 2026-09-25
+   A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.
+   🔗 https://github.com/SRHSoulja/backrooms
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐92573  
+1. **vllm-project/vllm** ⭐92651  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14717  
+2. **BlinkDL/RWKV-LM** ⭐14721  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10585  
+3. **bigscience-workshop/petals** ⭐10587  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐8729  
+4. **poloclub/transformer-explainer** ⭐8735  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
