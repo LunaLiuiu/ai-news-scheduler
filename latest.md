@@ -1,24 +1,24 @@
 === GitHub Trending AI Projects ===
-Date: 2026-10-19 14:04
+Date: 2026-10-20 13:56
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐106812  
+1. **rasbt/LLMs-from-scratch** ⭐106906  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐71121  
+2. **rohitg00/ai-engineering-from-scratch** ⭐71526  
    Learn AI Engineering! Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐22066  
+3. **huggingface/datasets** ⭐22069  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11711  
+4. **tensorzero/tensorzero** ⭐11709  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐6128  
+5. **ashishps1/learn-ai-engineering** ⭐6132  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
@@ -26,11 +26,11 @@ Date: 2026-10-19 14:04
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-7. **rasbt/reasoning-from-scratch** ⭐5428  
+7. **rasbt/reasoning-from-scratch** ⭐5432  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-8. **changyeyu/LLM-RL-Visualized** ⭐4955  
+8. **changyeyu/LLM-RL-Visualized** ⭐4960  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -44,50 +44,50 @@ Date: 2026-10-19 14:04
 
 
 --- Latest AI Releases ---
-1. **dograh-hq/dograh** ⭐5903  
-   Updated: 2026-10-19
-   Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
-   🔗 https://github.com/dograh-hq/dograh
+1. **devemberx/mcp-server-polarion** ⭐17  
+   Updated: 2026-10-20
+   MCP server for Polarion ALM — read and write documents, work items, test runs, traceability links, and comments from any MCP-compatible AI assistant
+   🔗 https://github.com/devemberx/mcp-server-polarion
 
-2. **yliu526/telegram-llm-bot** ⭐0  
-   Updated: 2026-10-19
-   Local-first Telegram AI bot with Ollama tool calling, voice transcription, MinIO storage, SearchApi web search, and readiness checks
-   🔗 https://github.com/yliu526/telegram-llm-bot
+2. **2002yy/study-agent** ⭐0  
+   Updated: 2026-10-20
+   AI 学习搭子系统 — 联网搜索 + 角色群聊 + 课后总结
+   🔗 https://github.com/2002yy/study-agent
 
-3. **JaniceSchneider03/oh-my-cassette** ⭐0  
-   Updated: 2026-10-19
-   你的随身 AI 剪辑搭档 | Pocket AI co-editor for video montage — AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode
-   🔗 https://github.com/JaniceSchneider03/oh-my-cassette
+3. **mAhmed86908/Anti-Autoresearch** ⭐0  
+   Updated: 2026-10-20
+   Don't trust an autoresearch paper at face value. Reviewer-side integrity forensics (self-consistency + fabrication), deterministic verdict. 61 signals: 46 integrity hack-patterns (families A–H, verdict-bearing) + 13 zero-weight AI writing-style impressions (AIS) + 2 advisory. Not an opaque AI-text c
+   🔗 https://github.com/mAhmed86908/Anti-Autoresearch
 
-4. **gauck526/ContractGuard** ⭐0  
-   Updated: 2026-10-19
-   AI agent that reads the fine print so you don't have to. Upload any contract → get red flags, unfair terms, and plain-English explanations in seconds.
-   🔗 https://github.com/gauck526/ContractGuard
+4. **shangliy/kvleak** ⭐0  
+   Updated: 2026-10-20
+   Find where your AI coding agent leaks prompt-cache money (Claude Code, multi-agent, any JSONL) and how to stop it.
+   🔗 https://github.com/shangliy/kvleak
 
-5. **HammerTime19/intel60** ⭐1  
-   Updated: 2026-10-19
-   Cybersecurity news in 60 words: AI-summarized, severity-rated security briefs from 8 sources + CISA KEV, refreshed every 30 minutes. Serverless on GitHub Actions + Pages.
-   🔗 https://github.com/HammerTime19/intel60
+5. **devrochy/agent-core** ⭐0  
+   Updated: 2026-10-20
+   Multi-tenant Python framework for production AI agents: per-tenant AgentSpec, Postgres RLS, MCP-style plugin tools, 3-layer memory, idempotency, guardrails and OpenTelemetry.
+   🔗 https://github.com/devrochy/agent-core
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐94095  
+1. **vllm-project/vllm** ⭐94177  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14750  
+2. **BlinkDL/RWKV-LM** ⭐14754  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10640  
+3. **bigscience-workshop/petals** ⭐10642  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐9006  
+4. **poloclub/transformer-explainer** ⭐9012  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6945  
+5. **InternLM/MindSearch** ⭐6947  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
