@@ -1,16 +1,16 @@
 === GitHub Trending AI Projects ===
-Date: 2026-11-07 15:01
+Date: 2026-11-08 15:13
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐107940  
+1. **rasbt/LLMs-from-scratch** ⭐107988  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐77219  
+2. **rohitg00/ai-engineering-from-scratch** ⭐77637  
    Learn AI Engineering! Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐22118  
+3. **huggingface/datasets** ⭐22117  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
@@ -18,11 +18,11 @@ Date: 2026-11-07 15:01
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐6170  
+5. **ashishps1/learn-ai-engineering** ⭐6204  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **rasbt/reasoning-from-scratch** ⭐5795  
+6. **rasbt/reasoning-from-scratch** ⭐5800  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
@@ -30,7 +30,7 @@ Date: 2026-11-07 15:01
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-8. **changyeyu/LLM-RL-Visualized** ⭐5003  
+8. **changyeyu/LLM-RL-Visualized** ⭐5006  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -44,34 +44,34 @@ Date: 2026-11-07 15:01
 
 
 --- Latest AI Releases ---
-1. **MohammedThaher01/trendly-agent** ⭐0  
-   Updated: 2026-11-07
-   Enterprise-grade AI support agent for Trendly. A hybrid ReAct architecture combining an LLM orchestrator (Groq) with deterministic Python tools and PII/policy guardrails to handle returns, exchanges & escalations at scale.
-   🔗 https://github.com/MohammedThaher01/trendly-agent
+1. **bharanidhar007/AI-agent-with-Local-LLM-with-custom-UI-for-8GB-ram** ⭐0  
+   Updated: 2026-11-08
+   Local LLM with custom ui.
+   🔗 https://github.com/bharanidhar007/AI-agent-with-Local-LLM-with-custom-UI-for-8GB-ram
 
-2. **khangkaka066/Nexus-Agent** ⭐1  
-   Updated: 2026-11-07
-   Self-hosted multi-agent studio: describe a goal and an AI architect builds a team of agents that code and produce files in a Docker sandbox, with human approval, task history and any model (ChatGPT/Claude/Gemini plans, API keys, Ollama).
-   🔗 https://github.com/khangkaka066/Nexus-Agent
+2. **kort0881/post-bot-telegam** ⭐1  
+   Updated: 2026-11-08
+   Интеллектуальная система автоматической публикации AI-новостей с продвинутой дедупликацией, умной фильтрацией и генерацией контента через Groq LLM.
+   🔗 https://github.com/kort0881/post-bot-telegam
 
-3. **lepablito/ai-blog-copilot** ⭐0  
-   Updated: 2026-11-07
-   Trend radar agent + writing studio: a from-scratch ReAct loop that finds what to write about, and a Streamlit studio that helps write it.
-   🔗 https://github.com/lepablito/ai-blog-copilot
+3. **samuelebistoletti/HomeAssistant-Quartermaster** ⭐0  
+   Updated: 2026-11-08
+   AI pantry agent for Home Assistant: track fridge, pantry and shelves by zone with cameras and photos, and keep the shopping list filled automatically.
+   🔗 https://github.com/samuelebistoletti/HomeAssistant-Quartermaster
 
-4. **HammerTime19/intel60** ⭐1  
-   Updated: 2026-11-07
-   Cybersecurity news in 60 words: AI-summarized, severity-rated security briefs from 8 sources + CISA KEV, refreshed every 30 minutes. Serverless on GitHub Actions + Pages.
-   🔗 https://github.com/HammerTime19/intel60
+4. **jkeith1/AIOpSaaS** ⭐0  
+   Updated: 2026-11-08
+   Devops in your pocket, AI Op SaaS this guy will inspect your clusters and hook to llms to superpower your inspection. Its vendor free and can run anywhere a container can. Its intention is to give every operator there own control and it should scale with AI agents of the future.
+   🔗 https://github.com/jkeith1/AIOpSaaS
 
-5. **alibaba-damo-academy/ScholarSeed** ⭐38  
-   Updated: 2026-11-07
-   Open-source, AI-native research workbench for literature search, reading, knowledge management & academic writing. Connects papers, notes and ideas across tasks, with traceable citations and reusable research context. Local-first and extensible with your choice of models, agents and tools.
-   🔗 https://github.com/alibaba-damo-academy/ScholarSeed
+5. **Aashi0105/Ai-data-analyst-agent** ⭐0  
+   Updated: 2026-11-08
+   AI-powered data analysis agent that turns natural-language questions into insights and visualizations using Gemini, FastAPI, and Next.js.
+   🔗 https://github.com/Aashi0105/Ai-data-analyst-agent
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐96490  
+1. **vllm-project/vllm** ⭐96540  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
@@ -79,11 +79,11 @@ Date: 2026-11-07 15:01
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10697  
+3. **bigscience-workshop/petals** ⭐10699  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐9102  
+4. **poloclub/transformer-explainer** ⭐9104  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
