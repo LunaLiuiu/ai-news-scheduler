@@ -1,16 +1,16 @@
 === GitHub Trending AI Projects ===
-Date: 2026-11-14 15:32
+Date: 2026-11-15 15:47
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐108381  
+1. **rasbt/LLMs-from-scratch** ⭐108430  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐78719  
+2. **rohitg00/ai-engineering-from-scratch** ⭐78971  
    Learn AI Engineering! Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐22139  
+3. **huggingface/datasets** ⭐22140  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
@@ -18,19 +18,19 @@ Date: 2026-11-14 15:32
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐6235  
+5. **ashishps1/learn-ai-engineering** ⭐6236  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **rasbt/reasoning-from-scratch** ⭐5828  
+6. **rasbt/reasoning-from-scratch** ⭐5832  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-7. **zenml-io/zenml** ⭐5635  
+7. **zenml-io/zenml** ⭐5636  
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-8. **changyeyu/LLM-RL-Visualized** ⭐5016  
+8. **changyeyu/LLM-RL-Visualized** ⭐5018  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -44,50 +44,50 @@ Date: 2026-11-14 15:32
 
 
 --- Latest AI Releases ---
-1. **yangpeng366/openeyes** ⭐2  
-   Updated: 2026-11-12
-   OpenEyes — AI-friendly computer-use primitives for Windows desktops (capture → detect → click): UIA → CDP → vision degradation chain, a structured element schema LLM agents can consume, MCP server, dry-run by default. MIT.
-   🔗 https://github.com/yangpeng366/openeyes
+1. **HackHeroic/Jarvis-Engine** ⭐1  
+   Updated: 2026-10-13
+   AI planner engine: LLM intent extraction, OR-Tools CP-SAT scheduling, RAG over your notes (FastAPI). 1st, NST Startup Foundry 2026
+   🔗 https://github.com/HackHeroic/Jarvis-Engine
 
-2. **suniljavadi/building-agentic-ai-systems** ⭐0  
+2. **casing1/praxioj** ⭐0  
+   Updated: 2026-11-10
+   AI-assisted online judge framework and localhost development workspace. Apache-2.0.
+   🔗 https://github.com/casing1/praxioj
+
+3. **flightdeckhq/flightdeck** ⭐29  
+   Updated: 2026-11-12
+   Observability and control plane for AI agents.
+   🔗 https://github.com/flightdeckhq/flightdeck
+
+4. **akash-k-07/jira-release-evidence-agent** ⭐0  
+   Updated: 2026-11-15
+   An AI-powered Jira Release Evidence Agent that investigates release requirements, gathers supporting evidence from Jira, and generates evidence-backed release readiness assessments using LLM-powered tool calling.
+   🔗 https://github.com/akash-k-07/jira-release-evidence-agent
+
+5. **guardnous/guardnous** ⭐0  
    Updated: 2026-11-14
-   Building Agentic AI Systems: a practical guide to LLM agent architectures, design patterns and implementation (preprint, DOI 10.5281/zenodo.24214723)
-   🔗 https://github.com/suniljavadi/building-agentic-ai-systems
-
-3. **Rayyan-Oumlil/OpenProxyAI** ⭐2  
-   Updated: 2026-11-14
-   Open-source LLM gateway: route by data class, audit trail, policy, budgets and MCP tool control.
-   🔗 https://github.com/Rayyan-Oumlil/OpenProxyAI
-
-4. **yiqunren/yiqunren** ⭐0  
-   Updated: 2026-11-12
-   Local multi-AI panel: Codex, Grok and Claude Code answer side by side, discuss and review each other — you make the final call. 議群人：讓多家 AI 一起討論、互相審查，最後由你決定。（早期開發中）
-   🔗 https://github.com/yiqunren/yiqunren
-
-5. **Saumya2721/IT314_Group15_MindMap-Generator** ⭐0  
-   Updated: 2026-11-12
-   An AI-powered mind map generator that transforms raw ideas, documents, and reference material into structured, interactive mind maps. Submit text, PDFs, or images to generate concept nodes and relationships using an LLM-backed pipeline with web search and arXiv integration. 
-   🔗 https://github.com/Saumya2721/IT314_Group15_MindMap-Generator
+   The open-source security platform with AI agents built in. Your scanners, your model, your infrastructure: code and IaC scanning, AWS cloud posture, and AI agents you can audit.
+   🔗 https://github.com/guardnous/guardnous
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐96899  
+1. **vllm-project/vllm** ⭐96944  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14775  
+2. **BlinkDL/RWKV-LM** ⭐14774  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10711  
+3. **bigscience-workshop/petals** ⭐10713  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
-4. **poloclub/transformer-explainer** ⭐9160  
+4. **poloclub/transformer-explainer** ⭐9163  
    Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
    🔗 https://github.com/poloclub/transformer-explainer
 
-5. **InternLM/MindSearch** ⭐6943  
+5. **InternLM/MindSearch** ⭐6944  
    🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
    🔗 https://github.com/InternLM/MindSearch
 
