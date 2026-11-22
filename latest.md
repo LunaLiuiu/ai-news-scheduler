@@ -1,36 +1,36 @@
 === GitHub Trending AI Projects ===
-Date: 2026-11-21 16:13
+Date: 2026-11-22 15:56
 
 --- Trending Repositories (ML/AI) ---
-1. **rasbt/LLMs-from-scratch** ⭐108733  
+1. **rasbt/LLMs-from-scratch** ⭐108792  
    Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/LLMs-from-scratch
 
-2. **rohitg00/ai-engineering-from-scratch** ⭐79711  
+2. **rohitg00/ai-engineering-from-scratch** ⭐79793  
    Learn AI Engineering! Learn it. Build it. Ship it for others.
    🔗 https://github.com/rohitg00/ai-engineering-from-scratch
 
-3. **huggingface/datasets** ⭐22180  
+3. **huggingface/datasets** ⭐22178  
    🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
    🔗 https://github.com/huggingface/datasets
 
-4. **tensorzero/tensorzero** ⭐11701  
+4. **tensorzero/tensorzero** ⭐11697  
    TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
    🔗 https://github.com/tensorzero/tensorzero
 
-5. **ashishps1/learn-ai-engineering** ⭐6249  
+5. **ashishps1/learn-ai-engineering** ⭐6250  
    Learn AI and LLMs from scratch using free resources
    🔗 https://github.com/ashishps1/learn-ai-engineering
 
-6. **rasbt/reasoning-from-scratch** ⭐5883  
+6. **rasbt/reasoning-from-scratch** ⭐5886  
    Implement a reasoning LLM in PyTorch from scratch, step by step
    🔗 https://github.com/rasbt/reasoning-from-scratch
 
-7. **zenml-io/zenml** ⭐5636  
+7. **zenml-io/zenml** ⭐5637  
    ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
    🔗 https://github.com/zenml-io/zenml
 
-8. **changyeyu/LLM-RL-Visualized** ⭐5031  
+8. **changyeyu/LLM-RL-Visualized** ⭐5032  
    🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
    🔗 https://github.com/changyeyu/LLM-RL-Visualized
 
@@ -44,42 +44,42 @@ Date: 2026-11-21 16:13
 
 
 --- Latest AI Releases ---
-1. **wwj5/lianai-junshi.skill** ⭐0  
-   Updated: 2026-11-21
-   给 AI 用的恋爱对话参谋 skill：先判阶段与卡点，再出可直接发送的回复，语气以真人打字为锚点，少标点、空格断句
-   🔗 https://github.com/wwj5/lianai-junshi.skill
+1. **NousResearch/hermes-agent** ⭐265259  
+   Updated: 2026-11-22
+   The agent that grows with you
+   🔗 https://github.com/NousResearch/hermes-agent
 
-2. **Anukta-Roy/lyftr-ai-chatbot** ⭐0  
-   Updated: 2026-11-21
-   Full-stack LLM chatbot with Gemini API key failover, LiteLLM response caching, FastAPI and React.
-   🔗 https://github.com/Anukta-Roy/lyftr-ai-chatbot
+2. **KKWANG4444/llm-api-proxy-china** ⭐5  
+   Updated: 2026-11-11
+   国内 AI API 中转站检测：OpenAI-compatible API、DeepSeek、Claude、Gemini、Cursor 的模型质量、SSE、工具调用、路由与生产排错
+   🔗 https://github.com/KKWANG4444/llm-api-proxy-china
 
-3. **johnstiles/ai-manus** ⭐152  
+3. **ambi1999/elder-activity-agent** ⭐0  
    Updated: 2026-11-16
-   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-   🔗 https://github.com/johnstiles/ai-manus
+   AI agent that monitors phone activity data to help families check on elderly relatives. FastAPI, Gemini, Postgres, Docker, CI/CD.
+   🔗 https://github.com/ambi1999/elder-activity-agent
 
-4. **monirchemrubd/ai-manus** ⭐152  
-   Updated: 2026-11-16
-   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-   🔗 https://github.com/monirchemrubd/ai-manus
-
-5. **mysky528/personal-ai-standards** ⭐0  
+4. **AndriiShramko/shramko-asystent-urzednika** ⭐0  
    Updated: 2026-11-21
-   An open, bilingual, machine-readable library of standards and practices for human–AI communication and collaboration.
-   🔗 https://github.com/mysky528/personal-ai-standards
+   Open brief and reference design for an AI assistant for Polish public offices: analysing access-to-public-information requests (UDIP), drafting answers with a verified legal basis, and pre-filling official forms. HackNation 2026, Bydgoszcz: Inteligentny asystent urzednika.
+   🔗 https://github.com/AndriiShramko/shramko-asystent-urzednika
+
+5. **uplinkswitch/uplinkswitch-examples** ⭐0  
+   Updated: 2026-11-12
+   Runnable examples for the UplinkSwitch API: OpenAI, Anthropic and Gemini SDKs, Vercel AI SDK, curl, Claude Code, Cursor, LibreChat, LiteLLM, Continue and OpenCode
+   🔗 https://github.com/uplinkswitch/uplinkswitch-examples
 
 
 --- Hot LLM Projects ---
-1. **vllm-project/vllm** ⭐97299  
+1. **vllm-project/vllm** ⭐97327  
    A high-throughput and memory-efficient inference and serving engine for LLMs
    🔗 https://github.com/vllm-project/vllm
 
-2. **BlinkDL/RWKV-LM** ⭐14787  
+2. **BlinkDL/RWKV-LM** ⭐14786  
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
    🔗 https://github.com/BlinkDL/RWKV-LM
 
-3. **bigscience-workshop/petals** ⭐10725  
+3. **bigscience-workshop/petals** ⭐10724  
    🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
    🔗 https://github.com/bigscience-workshop/petals
 
